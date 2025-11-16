@@ -4,7 +4,7 @@ Repositório com guia completo de comandos essenciais para desenvolvimento e ope
 
 ## 📚 Sumário
 
-- [🌐 Git & Git Flow](#-git--git-flow)->(O2_Comandos_Git.pdf)
+- [🌐 Git & Git Flow](#-git--git-flow)->[📥 Download PDF](O2_Comandos_Git.pdf) 
 - [⚡ Angular](#-angular)-> (03_Comandos Angular.pdf)
 - [⚛️ React](#️-react)-> (04_Comandos React.pdf)
 - [🐳 Docker & Docker Compose](#-docker--docker-compose)-> (05_Comandos Docker.pdf)
