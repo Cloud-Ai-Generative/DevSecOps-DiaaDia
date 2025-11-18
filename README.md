@@ -1,7 +1,7 @@
 ## 🏗️ Arquiteturas
 
-- [Arquiteturas de Sistemas](./arquiteturas-sistemas.md)
 - [Arquiteturas de Solução](./arquiteturas-solucao.md)
+- [Arquiteturas de Sistemas](./arquiteturas-sistemas.md)
 - [Arquitetura de Software](./arquitetura-software.md)
 
 # 🚀 Guia de Comandos DevOps & Desenvolvimento
