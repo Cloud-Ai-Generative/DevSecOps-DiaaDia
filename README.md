@@ -1,3 +1,9 @@
+## 🏗️ Arquiteturas
+
+- [Arquiteturas de Sistemas](./arquiteturas-sistemas.md)
+- [Arquiteturas de Solução](./arquiteturas-solucao.md)
+- [Arquitetura de Software](./arquitetura-software.md)
+
 # 🚀 Guia de Comandos DevOps & Desenvolvimento
 
 Repositório com guia completo de comandos essenciais para desenvolvimento e operações de infraestrutura.
