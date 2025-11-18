@@ -1,6 +1,6 @@
 # 🏗️ Arquiteturas de Solução
 
-*[← Voltar ao Guia Principal](../README.md)*
+*[← Voltar ao Guia Principal](./README.md)*
 
 ## Definição e Objetivos
 
