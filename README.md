@@ -14,4 +14,5 @@ Repositório com guia completo de comandos essenciais para desenvolvimento e ope
 - [🐍 Python](#-python)->[📄PDF](09_COMANDOS_PYTHON.pdf)
 - [🗄️ Bancos de Dados](#️-bancos-de-dados)->[📄PDF](10_COMANDOS_SQLSERVER_POSTGRESQL_MYSQL.pdf)
 - 🟦 [VS Code - Guia de atalhos essenciais]->[📄PDF](11_VS_CODE_Guia_Atalhos_Essenciais.pdf)
+- 🟦 [VS Code - Extensões](13_Extensoes_VS_Code.md)
 - [🔷 .NET](#-net)->[📄PDF](12_COMANDOS.NET.pdf)
